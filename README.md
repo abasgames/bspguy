@@ -1,7 +1,7 @@
 # bspguy
 A tool for modifying and merging Sven Co-op maps without decompiling.
 .
-# Usage
+# Usage.
 To launch the 3D editor, drag and drop a .bsp file onto the executable, or "Open with" bspguy, or run `bspguy <mapname>`
 
 See the [wiki](https://github.com/wootguy/bspguy/wiki) for tutorials.
